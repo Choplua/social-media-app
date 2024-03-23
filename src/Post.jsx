@@ -7,8 +7,8 @@ function Post(){
             <p>This is a test post we'll edit later!</p>
             <p>Likes: 30</p>
             <Comment content= "This is a test comment!"/>
-            <Comment />
-            <Comment />
+            <Comment content= "This is a  2nd test comment!"/>
+            <Comment content= "This is a  3rd test comment!"/>
         </div>
     )
 }
