@@ -1,5 +1,5 @@
 import React from 'react';
-import Post from './components/Post';
+import Post from './Post';
 
 function App(){
   return(
@@ -7,7 +7,7 @@ function App(){
       <h1>Fakebook!</h1>
       {/* CreatePostForm */}
       {/* Feed */}
-      {/* Post */}
+      <Post />
     </div>
   )
 }
